@@ -1,5 +1,6 @@
-## 👋 Hey there!  
-### Let’s build, learn, and innovate together.
+# Hey there!👋
+## Let’s build, learn, and innovate together.
+
 
 
 <!--
