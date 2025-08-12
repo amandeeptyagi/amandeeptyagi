@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hey there!  
+### Let’s build, learn, and innovate together.
+
 
 <!--
 **amandeeptyagi/amandeeptyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
